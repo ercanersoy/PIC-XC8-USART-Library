@@ -1,6 +1,6 @@
-# PIC MPLABX USART Library
+# PIC XC8 USART Library
 
-Copyright (C) 2020 Ercan Ersoy
+Copyright (C) 2020-2021 Ercan Ersoy
 
 This USART library is useful for USART data communications.
 
@@ -39,7 +39,5 @@ Print a string on screen.
 Read a character from USART.
 
 ## Note
-
-MPLAB is a registered trademark of Microchip Technology Incorporated.
 
 PIC is a registered trademark of Microchip Technology Incorporated.
