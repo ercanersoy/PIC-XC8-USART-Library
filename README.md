@@ -1,10 +1,10 @@
 # PIC XC8 USART Library
 
-Copyright (C) 2020-2021 Ercan Ersoy
+Copyright (C) 2020-2024 Ercan Ersoy
 
 This USART library is useful for USART data communications.
 
-This USART library licensed by CC0-1.0 Universal License.
+This USART library licensed by MIT License.
 
 ## Usage
 
